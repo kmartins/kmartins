@@ -4,8 +4,6 @@
   ![][profile_counter]
 </h2>
 
-<br/>
-
 ### 👨🏽‍💻 &nbsp;About me
 
 ```text
@@ -55,9 +53,12 @@ In love with Open Source 💙
 [![Gmail Badge][email_shiled]][email_link]
 [![GitHub Kauê][github_profile_shield]][github_profile_link]
 
+
 <br/>
 <br/>
-<summary><h2 align="center"> Then, that's it&nbsp;🙅🏽‍♂️ </h2></summary>
+<h3 align="center"> 
+  Then, that's it&nbsp;🙅🏽‍♂️ 
+</h3>
 
 [profile_counter]: https://komarev.com/ghpvc/?username=kmartins&color=006bed
 [dart]: https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart
