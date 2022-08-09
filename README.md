@@ -1,9 +1,8 @@
-<h2 align="center"> Welcome&nbsp;🖖🏽 
+<h2 align="center"> 
+  Welcome&nbsp;🖖🏽 
 
   ![][profile_counter]
 </h2>
-
----
 
 <br/>
 
@@ -58,7 +57,7 @@ In love with Open Source 💙
 
 <br/>
 <br/>
-<h2 align="center"> Then, that's it&nbsp;🙅🏽‍♂️ </h2>
+<summary><h2 align="center"> Then, that's it&nbsp;🙅🏽‍♂️ </h2></summary>
 
 [profile_counter]: https://komarev.com/ghpvc/?username=kmartins&color=006bed
 [dart]: https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart
