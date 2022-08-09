@@ -53,9 +53,8 @@ In love with Open Source 💙
 [![Gmail Badge][email_shiled]][email_link]
 [![GitHub Kauê][github_profile_shield]][github_profile_link]
 
+<br/>
 
-<br/>
-<br/>
 <h3 align="center"> 
   Then, that's it&nbsp;🙅🏽‍♂️ 
 </h3>
