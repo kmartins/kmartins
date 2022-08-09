@@ -51,6 +51,7 @@ In love with Open Source 💙
 
 [![Linkedin: Kauê][linkedin_shiled]][linkedin_link]
 [![Gmail Badge][email_shiled]][email_link]
+[![Website Badge][website_shield]][website_link]
 [![GitHub Kauê][github_profile_shield]][github_profile_link]
 
 <br/>
@@ -74,5 +75,7 @@ In love with Open Source 💙
 [linkedin_link]: https://www.linkedin.com/in/kmartinssp/
 [email_shiled]: https://img.shields.io/badge/-ksampaiosp@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksampaiosp@gmail.com
 [email_link]: mailto:ksampaiosp@gmail.com
+[website_shield]: https://img.shields.io/badge/-My_Personal_Site-333333?style=flat&logo=Hashnode
+[website_link]: http://kmartins.dev
 [github_profile_shield]: https://img.shields.io/github/followers/kmartins?label=follow&style=social
 [github_profile_link]: https://github.com/kmartins
